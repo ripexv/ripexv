@@ -7,7 +7,7 @@ I like to build things from the ground up — whether it’s an app, a tool, or 
 You can find most of what I build on my YouTube channel “[[**Ripex**](https://www.youtube.com/@ripexv)]”
 where I share my projects and a bit of my creative process.
 
-These days I’m mostly working with Svelte, TypeScript, and vanilla JavaScript, but I’m always exploring new stuff.
+These days I’m mostly working with Svelte, TypeScript, but I’m always exploring new stuff.
 
 If it sounds interesting, I’ll probably make it real.
 
