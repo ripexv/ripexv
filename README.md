@@ -1,3 +1,18 @@
+```
+ ________  ___  ________  _______      ___    ___ 
+|\   __  \|\  \|\   __  \|\  ___ \    |\  \  /  /|
+\ \  \|\  \ \  \ \  \|\  \ \   __/|   \ \  \/  / /
+ \ \   _  _\ \  \ \   ____\ \  \_|/__  \ \    / / 
+  \ \  \\  \\ \  \ \  \___|\ \  \_|\ \  /     \/  
+   \ \__\\ _\\ \__\ \__\    \ \_______\/  /\   \  
+    \|__|\|__|\|__|\|__|     \|_______/__/ /\ __\ 
+                                      |__|/ \|__| 
+                                                  
+                                                  
+```
+
+🦇 Could be a vampire, could be a werewolf… definitely something like an avatar.
+
 **Hey There!**
 
 I’m Ripex, an independent software engineer, full-stack developer, and creator.
