@@ -1,14 +1,14 @@
 ```
- ________  ___  ________  _______      ___    ___ 
-|\   __  \|\  \|\   __  \|\  ___ \    |\  \  /  /|
-\ \  \|\  \ \  \ \  \|\  \ \   __/|   \ \  \/  / /
- \ \   _  _\ \  \ \   ____\ \  \_|/__  \ \    / / 
-  \ \  \\  \\ \  \ \  \___|\ \  \_|\ \  /     \/  
-   \ \__\\ _\\ \__\ \__\    \ \_______\/  /\   \  
-    \|__|\|__|\|__|\|__|     \|_______/__/ /\ __\ 
-                                      |__|/ \|__| 
-                                                  
-                                                  
+ ██▀███   ██▓ ██▓███  ▓█████ ▒██   ██▒
+▓██ ▒ ██▒▓██▒▓██░  ██▒▓█   ▀ ▒▒ █ █ ▒░
+▓██ ░▄█ ▒▒██▒▓██░ ██▓▒▒███   ░░  █   ░
+▒██▀▀█▄  ░██░▒██▄█▓▒ ▒▒▓█  ▄  ░ █ █ ▒ 
+░██▓ ▒██▒░██░▒██▒ ░  ░░▒████▒▒██▒ ▒██▒
+░ ▒▓ ░▒▓░░▓  ▒▓▒░ ░  ░░░ ▒░ ░▒▒ ░ ░▓ ░
+  ░▒ ░ ▒░ ▒ ░░▒ ░      ░ ░  ░░░   ░▒ ░
+  ░░   ░  ▒ ░░░          ░    ░    ░  
+   ░      ░              ░  ░ ░    ░  
+                                                                                
 ```
 
 🦇 Could be a vampire, could be a werewolf… definitely something like an avatar.
@@ -37,27 +37,39 @@ If it sounds interesting, I’ll probably make it real.
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ripexv?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05122A,100:05122A&height=2&section=header"/>
 
-### 🧰 Languages and Tools
+### 🧰 Tech Stack
 
-<!--<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> -->
-<img align="left" alt="Svelte" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-plain.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<!--<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /> -->
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<!--<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> -->
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+#### 💻 Languages
+![Python](https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=for-the-badge&logo=typescript)
+![C++](https://img.shields.io/badge/C++-05122A?style=for-the-badge&logo=cplusplus)
+![HTML](https://img.shields.io/badge/HTML-05122A?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-05122A?style=for-the-badge&logo=css3)
+
+#### 🎨 Frontend
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![React](https://img.shields.io/badge/React-05122A?style=for-the-badge&logo=react)
+
+#### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-05122A?style=for-the-badge&logo=node.js)
+
+#### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-05122A?style=for-the-badge&logo=github)
 <br />
 
-#
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ripexv&label=PROFILE%20VIEWS&color=05122A&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=05122A&size=16&center=true&vCenter=true&width=420&lines=building+clean+interfaces;writing+maintainable+code" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05122A,100:05122A&height=2&section=header"/>
 
 ### 📺 Latest YouTube Videos
 
@@ -71,7 +83,7 @@ If it sounds interesting, I’ll probably make it real.
 -->
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@ripexv?sub_confirmation=1)
 
-#
+
 
 ### 📊 Stats
 
