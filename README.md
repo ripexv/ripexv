@@ -20,7 +20,7 @@ Svelte · TypeScript · Full-Stack
 
 <br><br>
 
-<sub>NEW YORK · AFTER DARK</sub>
+<sub>You have no idea how obsessed I am.</sub>
 
 <br><br>
 
