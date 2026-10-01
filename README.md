@@ -85,7 +85,7 @@ src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZkaWh5Z2FkbWhmaTY5OTFmN
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=swift,git,docker,vscode" alt="Tools">
+<img src="https://skillicons.dev/icons?i=swift,git,docker,zed" alt="Tools">
 
 </div>
 
