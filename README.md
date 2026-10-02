@@ -118,7 +118,7 @@ web · full-stack · experiments · tools
 </a>
 &nbsp;&nbsp;
 <a href="https://ripexv.com">
-  <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Website">
+  <img src="https://img.shields.io/badge/Ripexv-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Website">
 </a>
 &nbsp;&nbsp;
 <a href="https://youtube.com/@ripexv">
