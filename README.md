@@ -114,11 +114,11 @@ web · full-stack · experiments · tools
 <div align="center">
 
 <a href="https://github.com/ripexv">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/LustBound-181717?style=for-the-badge&logo=lustbound&logoColor=white" alt="LustBound">
 </a>
 &nbsp;&nbsp;
 <a href="https://ripexv.com">
-  <img src="https://img.shields.io/badge/Ripexv-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Website">
+  <img src="https://img.shields.io/badge/Ripexv-111111?style=for-the-badge&logo=ripexv&logoColor=white" alt="RX">
 </a>
 &nbsp;&nbsp;
 <a href="https://youtube.com/@ripexv">
